@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+^maple01\.Rproj$
+^app\.R$
+^LICENSE\.md$
+.*big\.parquet$
+^EDA$
